@@ -1,5 +1,5 @@
-import image1 from "./assets/image1.jpg";
-import image2 from "./assets/image2.jpg";
+import image1 from "./welcome/assets/image1.jpg";
+import image2 from "./welcome/assets/image2.jpg";
 import "./App.css";
 
 function App() {
